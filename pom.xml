@@ -100,11 +100,11 @@
       <version>2.6</version>
     </dependency>
 
-    <dependency>
+<!--     <dependency>
       <groupId>org.apache.tomcat.embed</groupId>
       <artifactId>tomcat-embed-core</artifactId>
       <version>8.5.51</version>
-    </dependency>
+    </dependency> -->
 
     <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
     <dependency>
